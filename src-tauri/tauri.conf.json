@@ -7,12 +7,12 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": "processing-svelte",
+    "productName": "processing-clone",
     "version": "0.1.0"
   },
   "tauri": {
     "allowlist": {
-      "all": false
+      "all": true
     },
     "bundle": {
       "active": true,

@@ -1,9 +1,5 @@
 <script>
-	import '../app.postcss';
-	
-export const ssr = false;
-export const prerender = true;
-					
+	import '../app.postcss';				
 </script>
 
 <slot />
